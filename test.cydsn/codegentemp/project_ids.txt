@@ -1,0 +1,7 @@
+C:\Users\jannett.wehle_drones\Documents\PSoC Creator\Workspace01\dock-actuator-psoc-proj\test.cydsn\test.cyprj|c92cb211-3f08-4cce-b7e7-a5b2f46c6fa9
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|4183568a-8ca1-400d-9a75-65005813e032
+C:\Users\jannett.wehle_drones\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|7c99296c-c202-43d1-8165-338986c1311b
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|1101007b-3be1-4297-96ab-cc6fdcd2996f
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|710c0742-afc1-465e-a8be-f2a45f32e51a
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|0bc8fe49-c7ca-4e59-bfbd-9b94498663bc
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\dev\psoc3\AnalogDevice\PSoC35AnalogDevice.cylib\PSoC35AnalogDevice.cyprj|03ba5bd0-dac6-4521-856c-20228b055ec3
